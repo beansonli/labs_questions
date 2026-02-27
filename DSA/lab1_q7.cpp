@@ -1,3 +1,14 @@
+/*********************************************************
+The relative order of the elements should be kept the same. Return the number of
+unique elements k. The first k elements of nums should contain the unique
+elements in their original order. The remaining elements beyond k do not matter.
+e.g. nums = [1, 1, 2, 2, 3]
+k = 3
+nums = [1, 2, 3, _, _]
+********************************************************/
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -30,3 +41,4 @@ int main() {
 
     return 0;
 }
+
