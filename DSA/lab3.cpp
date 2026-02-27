@@ -8,7 +8,6 @@
 5. Write a program for the evaluation of a Postfix expression.
 ************************************************************************************************/
 #include <iostream>
-#include <cstring>
 #include <cctype>
 using namespace std;
 
