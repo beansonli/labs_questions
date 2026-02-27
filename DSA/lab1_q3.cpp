@@ -1,3 +1,13 @@
+/*****************************************************************
+You are given a sorted (non-decreasing) array of integers arr of length n
+and an integer target. Find two distinct elements in the array such that their
+sum is equal to target. Return their 0-based indices (i, j) such that:0 ≤ i < j < n.
+You must solve the problem using constant extra space, and you may not use
+the same element twice. It is guaranteed that exactly one valid pair exists.
+e.g. arr = [1, 2, 4, 6, 10], target = 8.
+*******************************************************************/
+
+
 #include <iostream>
 using namespace std;
 
@@ -39,3 +49,4 @@ int main() {
 
     return 0;
 }
+
