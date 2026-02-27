@@ -1,3 +1,11 @@
+/***********************************************************
+Implement the logic to
+a. Reverse the elements of an array
+b. Find the matrix multiplication
+c. Find the Transpose of a Matrix
+************************************************************/
+
+
 #include <iostream>
 using namespace std;
 
@@ -133,4 +141,5 @@ void transpose() {
         }
         cout << endl;
     }
+
 }
