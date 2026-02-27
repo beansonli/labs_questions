@@ -1,3 +1,8 @@
+/**************************************************
+You are given a sorted integer array nums of length n. Remove the duplicates inplace such that each unique element appears only once.
+***************************************************/
+
+
 #include <iostream>
 using namespace std;
 
@@ -37,3 +42,4 @@ int main() {
 
     return 0;
 }
+
